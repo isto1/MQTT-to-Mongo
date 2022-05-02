@@ -5,7 +5,9 @@
  * @author  Dennis de Greef <github@link0.net>
  * @license MIT
  *
- */
+ * mit Consoloe Log 
+
+*/
 var mongodb  = require('mongodb');
 var mqtt     = require('mqtt');
 var config   = require('./config');
